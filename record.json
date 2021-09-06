@@ -1,0 +1,261 @@
+{
+    "1001": {
+        "name": "Kitkat",
+        "mrp": 30,
+        "stock": 600,
+        "discount %": 5,
+        "specifications": "20"
+    },
+    "1002": {
+        "name": "Diary Milk",
+        "mrp": 40,
+        "stock": 200,
+        "discount %": 5,
+        "specifications": "55g"
+    },
+    "1003": {
+        "name": "Munch",
+        "mrp": 10,
+        "stock": 400,
+        "discount %": 5,
+        "specifications": "32g"
+    },
+    "1004": {
+        "name": "FiveStar",
+        "mrp": 20,
+        "stock": 450,
+        "discount %": 5,
+        "specifications": "40g"
+    },
+    "1005": {
+        "name": "MilkyBar",
+        "mrp": 15,
+        "stock": 300,
+        "discount %": 5,
+        "specifications": "25g"
+    },
+    "1006": {
+        "name": "Dark Fantacy",
+        "mrp": 100,
+        "stock": 400,
+        "discount %": 5,
+        "specifications": "300"
+    },
+    "1007": {
+        "name": "Oreo",
+        "mrp": 25,
+        "stock": 500,
+        "discount %": 5,
+        "specifications": "120g"
+    },
+    "1008": {
+        "name": "Bourbon",
+        "mrp": 30,
+        "stock": 500,
+        "discount %": 5,
+        "specifications": "150g"
+    },
+    "1009": {
+        "name": "Sunfeast",
+        "mrp": 25,
+        "stock": 500,
+        "discount %": 5,
+        "specifications": "120g"
+    },
+    "1010": {
+        "name": "Pringles",
+        "mrp": 100,
+        "stock": 200,
+        "discount %": 7,
+        "specifications": "100g"
+    },
+    "1011": {
+        "name": "Bread",
+        "mrp": 50,
+        "stock": 100,
+        "discount %": 0,
+        "specifications": "1 large loaf"
+    },
+    "1012": {
+        "name": "Roti",
+        "mrp": 50,
+        "stock": 100,
+        "discount %": 7,
+        "specifications": "5 units per pack"
+    },
+    "1013": {
+        "name": "Bun",
+        "mrp": 50,
+        "stock": 100,
+        "discount %": 7,
+        "specifications": "6 units per pack"
+    },
+    "1014": {
+        "name": "Jam",
+        "mrp": 250,
+        "stock": 200,
+        "discount %": 5,
+        "specifications": "1kg, pinapple, strawberry available"
+    },
+    "1015": {
+        "name": "Nutella",
+        "mrp": 450,
+        "stock": 80,
+        "discount %": 5,
+        "specifications": "400g"
+    },
+    "1016": {
+        "name": "Ketchup",
+        "mrp": 100,
+        "stock": 100,
+        "discount %": 5,
+        "specifications": "1kg"
+    },
+    "1017": {
+        "name": "Mayonaise",
+        "mrp": 60,
+        "stock": 100,
+        "discount %": 5,
+        "specifications": "250g"
+    },
+    "1018": {
+        "name": "Chips",
+        "mrp": 10,
+        "stock": 200,
+        "discount %": 5,
+        "specifications": "25g"
+    },
+    "1019": {
+        "name": "Muffins",
+        "mrp": 60,
+        "stock": 20,
+        "discount %": 10,
+        "specifications": "6 units per pack"
+    },
+    "1020": {
+        "name": "Cake",
+        "mrp": 300,
+        "stock": 20,
+        "discount %": 10,
+        "specifications": "1/2 kg marble cake"
+    },
+    "1021": {
+        "name": "Icecream cone",
+        "mrp": 30,
+        "stock": 50,
+        "discount %": 15,
+        "specifications": "Chocolate, Vanilla available"
+    },
+    "1022": {
+        "name": "Icecream stick",
+        "mrp": 10,
+        "stock": 50,
+        "discount %": 15,
+        "specifications": "Chocolate, Vanilla available"
+    },
+    "1023": {
+        "name": "Icecream box",
+        "mrp": 150,
+        "stock": 50,
+        "discount %": 15,
+        "specifications": "500ml, Vanilla, Chocolate, Butterscotch available"
+    },
+    "1024": {
+        "name": "Fizz",
+        "mrp": 15,
+        "stock": 80,
+        "discount %": 12,
+        "specifications": "250ml"
+    },
+    "1025": {
+        "name": "Soda",
+        "mrp": 30,
+        "stock": 80,
+        "discount %": 12,
+        "specifications": "250 ml"
+    },
+    "1026": {
+        "name": "Sprite",
+        "mrp": 30,
+        "stock": 80,
+        "discount %": 12,
+        "specifications": "250 ml"
+    },
+    "1027": {
+        "name": "Pepsi",
+        "mrp": 30,
+        "stock": 80,
+        "discount %": 12,
+        "specifications": "250 ml"
+    },
+    "1028": {
+        "name": "Fanta",
+        "mrp": 30,
+        "stock": 80,
+        "discount %": 12,
+        "specifications": "250 ml"
+    },
+    "1029": {
+        "name": "Tropicana Juice",
+        "mrp": 110,
+        "stock": 60,
+        "discount %": 12,
+        "specifications": "1 litre, Apple, Mango, Orange, Grapes available"
+    },
+    "1030": {
+        "name": "Milkshake",
+        "mrp": 20,
+        "stock": 100,
+        "discount %": 12,
+        "specifications": "180ml, Chocolate, Vanilla, Straberry available"
+    },
+    "1031": {
+        "name": "Amul Milk",
+        "mrp": 35,
+        "stock": 50,
+        "discount %": 20,
+        "specifications": "1 liter"
+    },
+    "1032": {
+        "name": "Butter",
+        "mrp": 235,
+        "stock": 50,
+        "discount %": 20,
+        "specifications": "500g"
+    },
+    "1033": {
+        "name": "Cheese",
+        "mrp": 75,
+        "stock": 40,
+        "discount %": 20,
+        "specifications": "100g"
+    },
+    "1034": {
+        "name": "Boost",
+        "mrp": 100,
+        "stock": 80,
+        "discount %": 7,
+        "specifications": "200g"
+    },
+    "1035": {
+        "name": "Horlicks",
+        "mrp": 100,
+        "stock": 200,
+        "discount %": 7,
+        "specifications": "200g"
+    },
+    "1036": {
+        "name": "Cereals",
+        "mrp": 276,
+        "stock": 100,
+        "discount %": 30,
+        "specifications": "875g"
+    },
+    "1037": {
+        "name": "Oats",
+        "mrp": 300,
+        "stock": 100,
+        "discount %": 30,
+        "specifications": "2kg"
+    }
+}
