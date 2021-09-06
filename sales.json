@@ -34,5 +34,68 @@
         "discount": 0,
         "amount payed": 50,
         "time": "2021-09-06 08:10:58.935114"
+    },
+    "4": {
+        "ProductId": "1010",
+        "name": "Pringles",
+        "quantity": 10,
+        "price": 1000,
+        "discount": 0,
+        "amount payed": 1000,
+        "time": "2021-09-06 18:58:34.581227"
+    },
+    "5": {
+        "ProductId": "1011",
+        "name": "Bread",
+        "quantity": 1,
+        "price": 50,
+        "discount": 0,
+        "amount payed": 50,
+        "time": "2021-09-06 18:58:38.910423"
+    },
+    "6": {
+        "ProductId": "1012",
+        "name": "Roti",
+        "quantity": 2,
+        "price": 100,
+        "discount": 0,
+        "amount payed": 100,
+        "time": "2021-09-06 18:58:44.226248"
+    },
+    "7": {
+        "ProductId": "1013",
+        "name": "Bun",
+        "quantity": 2,
+        "price": 100,
+        "discount": 0,
+        "amount payed": 100,
+        "time": "2021-09-06 18:58:48.696408"
+    },
+    "8": {
+        "ProductId": "1030",
+        "name": "Milkshake",
+        "quantity": 2,
+        "price": 40,
+        "discount": 0,
+        "amount payed": 40,
+        "time": "2021-09-06 18:58:53.415982"
+    },
+    "9": {
+        "ProductId": "1031",
+        "name": "Amul Milk",
+        "quantity": 2,
+        "price": 70,
+        "discount": 0,
+        "amount payed": 70,
+        "time": "2021-09-06 18:58:59.806282"
+    },
+    "10": {
+        "ProductId": "1019",
+        "name": "Muffins",
+        "quantity": 2,
+        "price": 120,
+        "discount": 0,
+        "amount payed": 120,
+        "time": "2021-09-06 18:59:36.357547"
     }
 }
